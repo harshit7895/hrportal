@@ -14,7 +14,7 @@
 
 	<p style="font-size:50px; padding-left:300px; color:darkgreen;">Human Resource Management System</p>
 
-<div style="padding-top:50px;width:50%; padding-left:330px; ">
+<div style="padding-top:50px;width:40%; padding-left:330px; ">
 
 	<fieldset style="border: 4px solid blue;   ">
 
