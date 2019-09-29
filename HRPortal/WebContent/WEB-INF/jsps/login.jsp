@@ -11,6 +11,7 @@
 
 
 <body style="background-color:lightpink;">
+<body style="background-color:lightpink;">
 
 	<p style="font-size:50px; padding-left:300px; color:darkgreen;">Human Resource Management System</p>
 
@@ -55,7 +56,6 @@ if(message != null && !message.trim().equals("")) {
               
             </tr>            
        </table>
- 
  
     </form>
     </fieldset>
